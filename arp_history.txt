@@ -1,0 +1,69 @@
+
+=== Snapshot ===
+
+Interfaceÿ: 10.5.2.157 --- 0x12
+  Adresse Internet      Adresse physique      Type
+  10.5.0.14             2e-a2-cc-32-2f-1e     dynamique 
+  10.5.2.58             48-e7-da-a6-74-83     dynamique 
+  10.5.2.111            04-ed-33-ae-e2-19     dynamique 
+  10.5.3.254            00-57-d2-29-55-47     dynamique 
+  10.5.3.255            ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.2             01-00-5e-00-00-02     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Interfaceÿ: 172.26.16.1 --- 0x2d
+  Adresse Internet      Adresse physique      Type
+  172.26.31.255         ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.2             01-00-5e-00-00-02     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+
+=== Snapshot ===
+
+Interfaceÿ: 10.5.2.157 --- 0x12
+  Adresse Internet      Adresse physique      Type
+  10.5.0.14             2e-a2-cc-32-2f-1e     dynamique 
+  10.5.2.58             48-e7-da-a6-74-83     dynamique 
+  10.5.2.111            04-ed-33-ae-e2-19     dynamique 
+  10.5.3.254            00-57-d2-29-55-47     dynamique 
+  10.5.3.255            ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.2             01-00-5e-00-00-02     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Interfaceÿ: 172.26.16.1 --- 0x2d
+  Adresse Internet      Adresse physique      Type
+  172.26.31.255         ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.2             01-00-5e-00-00-02     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+
+=== Snapshot ===
+
+Interfaceÿ: 10.5.2.157 --- 0x12
+  Adresse Internet      Adresse physique      Type
+  10.5.0.14             2e-a2-cc-32-2f-1e     dynamique 
+  10.5.2.58             48-e7-da-a6-74-83     dynamique 
+  10.5.2.111            04-ed-33-ae-e2-19     dynamique 
+  10.5.3.254            00-57-d2-29-55-47     dynamique 
+  10.5.3.255            ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.2             01-00-5e-00-00-02     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Interfaceÿ: 172.26.16.1 --- 0x2d
+  Adresse Internet      Adresse physique      Type
+  172.26.31.255         ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.2             01-00-5e-00-00-02     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
